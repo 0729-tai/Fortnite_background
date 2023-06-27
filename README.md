@@ -1,5 +1,5 @@
-# Fortnite-backgrounds-backups
-Fortnite-backgrounds
+# フォートナイト背景
+フォートナイト背景
 # C4S2
 | バージョン | URL |
 | ------------- | ------------- |
@@ -13,3 +13,5 @@ Fortnite-backgrounds
 | バージョン | URL |
 | ------------- | ------------- |
 | 25.00| https://cdn2.unrealengine.com/s25-lobby-4k-4096x2048-4a832928e11f.jpg |
+| 25.10| https://cdn2.unrealengine.com/s25-lobby-4k-4096x2048-4a832928e11f.jpg |
+| 25.11| https://cdn2.unrealengine.com/s25-lobby-4k-4096x2048-4a832928e11f.jpg |
