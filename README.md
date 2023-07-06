@@ -14,4 +14,4 @@
 | ------------- | ------------- |
 | 25.00| https://cdn2.unrealengine.com/s25-lobby-4k-4096x2048-4a832928e11f.jpg |
 | 25.10| https://cdn2.unrealengine.com/s25-lobby-4k-4096x2048-4a832928e11f.jpg |
-| 25.11| https://cdn2.unrealengine.com/s25-lobby-4k-4096x2048-4a832928e11f.jpg |
+| 25.11| https://cdn2.unrealengine.com/t-s25-14dos-lobby-4096x2048-2be24969eee3.jpg |
